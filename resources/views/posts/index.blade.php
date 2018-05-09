@@ -11,3 +11,7 @@
 @section('main_content')
 	hello world
 @endsection
+
+@section('test')
+	hello
+@endsection
